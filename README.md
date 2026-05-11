@@ -11,4 +11,4 @@ Henok Mesaye QG1292, section B
 This is UI prototype for the app Unitrade, 
   Unitrade: an online application designed for students who want to trade books or other gear. 
 
-We will improve and add more featurea for the final version. 
+We will improve and add more features for the final version. 
